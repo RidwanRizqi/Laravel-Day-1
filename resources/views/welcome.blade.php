@@ -16,7 +16,7 @@
         </style>
         <style>
             body {
-                font-family: 'figtree', serif;
+                font-family: 'figtree', Arial;
             }
         </style>
     </head>
